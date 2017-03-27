@@ -7,6 +7,8 @@
 [LinkedIn](https://www.linkedin.com/profile/view?id=AAMAAAUA4cYBd2fdSpjjM-c26Z1r2GIWVm-TiGg) |
 [Publons](https://publons.com/a/326532)
 
+Or take a look at my [_Curriculum vitae_](cv-2017-2-en.pdf).
+
 ### Code
 [GitHub](https://github.com/lmrodriguezr)
 
