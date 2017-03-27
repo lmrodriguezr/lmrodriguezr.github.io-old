@@ -20,10 +20,10 @@
 
 # Almae matres
 
-### PhD(c) Bioinformatics | Gatech
+### PhD Bioinformatics | Gatech
 [Georgia Institute of Technology](http://www.gatech.edu/) > [Biology](http://www.biology.gatech.edu/)
 
-Where I'm currently working in genomics and metagenomics for microbial ecology at the
+Where I'm currently working as a postdoctoral fellow in genomics and metagenomics for microbial ecology at the
 [Kostas lab](http://enve-omics.gatech.edu/) under the supervision of
 [Dr. Konstantinidis](http://www.ce.gatech.edu/people/faculty/711/overview).
 
