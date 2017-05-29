@@ -33,7 +33,7 @@ Where I'm currently working as a postdoctoral fellow in genomics and metagenomic
 [Kostas lab](http://enve-omics.gatech.edu/) under the supervision of
 [Dr. Konstantinidis](http://www.ce.gatech.edu/people/faculty/711/overview).
 
-**Dissertation**: Bioinformatic tools for testing microbial ecology theory in natural environments through metagenomics
+**Dissertation**: Bioinformatic tools for testing microbial ecology theory in natural environments through metagenomics.
 
 ### MSc Applied Informatics | UM2
 [Université de Montpellier](http://www.umontpellier.fr/) > [Informatique](http://deptinfofds.univ-montp2.fr/)
