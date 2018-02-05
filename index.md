@@ -24,7 +24,7 @@ See also some media coverage here:
 * Dec-2016: [Profile piece at Georgia Tech - School of Biological Sciences](http://biosci.gatech.edu/news-events/news/555).
 * Feb-2015: [Impact of Deepwater Horizon Oil on beach microbial communities](https://www.sciencedaily.com/releases/2015/02/150217154038.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sciencedaily+%28Latest+Science+News+--+ScienceDaily%29).
 
-# Almae matres
+# Almæ matres
 
 ### PhD Bioinformatics | Gatech
 [Georgia Institute of Technology](http://www.gatech.edu/) > [Biology](http://www.biology.gatech.edu/)
